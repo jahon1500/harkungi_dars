@@ -1,0 +1,5 @@
+#print("Hello World")
+#print(65*76)
+#print("hello world\nhello world")
+print("oltining kvadrati",6**2, "ga teng")
+print("5x5=",25)
